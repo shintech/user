@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 usage () {
   printf '\nUsage:\n./new.sh -n <username> -s\nOptions:\n[ -n ] - username of new user [required]\n[ -s ] - make new user a superuser\n'
 }
